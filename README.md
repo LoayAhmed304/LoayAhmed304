@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./profile/stats.svg" width="494px" alt="loayahmed304" />
+  <img src="./profile/stats.svg" width="494px" alt="Stats" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=loayahmed304&background=1A1B27&stroke=E4E2E2&currStreakNum=820000&sideNums=38BDAE&sideLabels=70A5FD&ring=70A5FD&fire=830000&currStreakLabel=70A5FD&excludeDaysLabel=38BDAE&dates=38BDAE" width=450 alt="GitHub Streak" />
-  <img src="./profile/top-langs.svg" width=320  alt="loayahmed304" />
+  <!-- <img src="https://streak-stats.demolab.com?user=loayahmed304&background=1A1B27&stroke=E4E2E2&currStreakNum=820000&sideNums=38BDAE&sideLabels=70A5FD&ring=70A5FD&fire=830000&currStreakLabel=70A5FD&excludeDaysLabel=38BDAE&dates=38BDAE" width=450 alt="GitHub Streak" /> -->
+  <img src="./profile/top-langs.svg"  alt="Most Used Languages" />
 
 
 </div>
